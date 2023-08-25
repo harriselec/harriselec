@@ -59,8 +59,45 @@
                                     </div>
                                 </div>                                   
                             </div>
-                            <small class="text-muted"></small>
+                            <small class="text-muted">Last 24 Hours</small>
                         </div>
+                    <!--------- End of cashflow card------->
+                    <div class="insights">
+                        <div class="total-cash">
+                            <span class="material-icons">currency_pound</span>
+                            <div class="middle">
+                                <div class="left">
+                                    <h3>total cash</h3>
+                                    <h1>bank link</h1>
+                                </div>
+                                <div class="progress">
+                                    <svg><circle cx='38' cy='38' r='36'></circle></svg>
+                                    <div class="number">
+                                        <p>81%</p>
+                                    </div>
+                                </div>                                   
+                            </div>
+                            <small class="text-muted">Last 24 Hours</small>
+                        </div>
+                    <!--------- End of cashflow card-------> 
+                    <div class="insights">
+                        <div class="total-cash">
+                            <span class="material-icons">currency_pound</span>
+                            <div class="middle">
+                                <div class="left">
+                                    <h3>total cash</h3>
+                                    <h1>bank link</h1>
+                                </div>
+                                <div class="progress">
+                                    <svg><circle cx='38' cy='38' r='36'></circle></svg>
+                                    <div class="number">
+                                        <p>81%</p>
+                                    </div>
+                                </div>                                   
+                            </div>
+                            <small class="text-muted">Last 24 Hours</small>
+                        </div>
+                    <!--------- End of cashflow card------->     
                     </div>
                 </main>
             </div>
