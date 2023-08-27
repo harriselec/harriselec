@@ -49,8 +49,8 @@
                             <span class="material-icons">currency_pound</span>
                             <div class="middle">
                                 <div class="left">
-                                    <h3>total cash</h3>
-                                    <h1>bank link</h1>
+                                    <h3>Total Cash</h3>
+                                    <h1></h1>
                                 </div>
                                 <div class="progress">
                                     <svg><circle cx='38' cy='38' r='36'></circle></svg>
@@ -61,9 +61,10 @@
                             </div>
                             <small class="text-muted">Last 24 Hours</small>
                         </div>
+                   
                     <!--------- End of cashflow card------->
-                    <div class="insights">
-                        <div class="total-cash">
+                    
+                        <div class="another-thing">
                             <span class="material-icons">currency_pound</span>
                             <div class="middle">
                                 <div class="left">
@@ -79,9 +80,10 @@
                             </div>
                             <small class="text-muted">Last 24 Hours</small>
                         </div>
+                       
                     <!--------- End of cashflow card-------> 
-                    <div class="insights">
-                        <div class="total-cash">
+                    
+                        <div class="whatever-i-choose">
                             <span class="material-icons">currency_pound</span>
                             <div class="middle">
                                 <div class="left">
@@ -97,6 +99,7 @@
                             </div>
                             <small class="text-muted">Last 24 Hours</small>
                         </div>
+                    </div>
                     <!--------- End of cashflow card------->     
                     </div>
                 </main>
